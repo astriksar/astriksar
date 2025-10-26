@@ -1,16 +1,27 @@
-<h1 align="center">Hi 👋, I'm Astrik! 🙂</h1>
+<h1 align="left">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=ffafcc&random=false&width=435&separator=%3C&size=20&lines=Hi+There,+%F0%9F%91%8B++I+am+Astrik!🙂" alt="Typing SVG" /></a>
+</h1>
 
-<h3 align="center">A passionate data scientist from Germany, Berlin. I am currently finishing my M.S. in Bioinformatics.</h3>
+<h4 align="left">A passionate data scientist from Germany, Berlin. I am currently finishing my M.S. in Bioinformatics. I became really passionate about data science during my studies because I love the analytical and problem-solving nature of working with data. I've been actively evolving my tech and skill set to apply not only to biomedical data science, but also to challenges in fintech. I love the process of mining, transforming, and visualizing complex datasets. </h4>
 
-<p align="center">
-I became really passionate about data science during my studies because I love the analytical and problem-solving nature of working with data.
-
-I've been actively evolving my tech and skill set to apply not only to biomedical data science, but also to challenges in fintech. I love the process of mining, transforming, and visualizing complex datasets. 
 🔭 I’m currently working on **building a computational pipeline using statistical modeling and ML to classify LASV lineages and extract key genomic markers.**
 
 </p>
 
-> 📫 How to reach me **astghik.sarukhan@gmail.com** or connect with me on: <a href="https://linkedin.com/in/sarukhaa99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarukhaa99" height="15" width="30" /></a>
+---
+
+<h3 align="center"> 📫 Contact </h3>
+
+<div align ="center">
+<a href="mailto:astghik.sarukhan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://linkedin.com/in/sarukhaa99">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</div>
+
 
 ---
 <h3 align="center">Languages and Tools</h3>
