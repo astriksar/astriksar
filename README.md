@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffafcc&height=180&section=header&text=Hey%20Everyone!%20🕹️💻&fontColor=fff&fontSize=30&animation=fadeIn&fontAlign=50&fontAlignY=42&desc=Data%20Scientist%20·%20Bioinformatician%20·%20Berlin&descSize=14&descAlignY=68&descAlign=50&descFontFamily=Dancing+Script" width="100%"/>
+</p>
+
 <img src="https://media4.giphy.com/media/0YmBoPL8p6xH43eNRT/giphy.gif" width="260" align="right"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=ffafcc&random=false&width=435&size=20&lines=Hi+There+👋+I'm+Astrik!;Data+Scientist+🧬;Berlin%2C+Germany+🇩🇪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=ffafcc&random=false&width=435&size=20&lines=I'm+Astrik!;Data+Scientist+🧬)](https://git.io/typing-svg)
+
 
 <h4 align="left">
     
