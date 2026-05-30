@@ -1,16 +1,20 @@
-<h1 align="left">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=ffafcc&random=false&width=435&separator=%3C&size=20&lines=Hi+There,+%F0%9F%91%8B++I+am+Astrik!🙂" alt="Typing SVG" /></a>
-</h1>
+<img src="https://media4.giphy.com/media/0YmBoPL8p6xH43eNRT/giphy.gif" width="260" align="right"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=ffafcc&random=false&width=435&size=20&lines=Hi+There+👋+I'm+Astrik!;Data+Scientist+🧬;Berlin%2C+Germany+🇩🇪)](https://git.io/typing-svg)
 
 <h4 align="left">
-I'm drawn to the analytical and problem-solving side of data: mining, transforming, and turning complex datasets into something meaningful.
-Data scientist based in Berlin 🇩🇪 Finishing my M.S. in Bioinformatics.
-Currently bridging biomedical research and fintech, evolving my skill set across both domains.
+    
+<br/>
+I'm drawn to the analytical and problem-solving side of data — <br/>
+mining, transforming, and turning complex datasets into something meaningful.<br/><br/>
+Finishing my M.S. in Bioinformatics in Berlin 🇩🇪<br/>
+Bridging biomedical research and fintech, evolving my skills across both worlds.
 </h4>
 
+<br clear="right"/>
 
 ---
+
 ### 🛠 Skills & Tools
 
 **Languages**
