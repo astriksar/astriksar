@@ -13,14 +13,14 @@
 I'm drawn to the analytical and problem-solving side of data — <br/>
 mining, transforming, and turning complex datasets into something meaningful.<br/><br/>
 Finishing my M.S. in Bioinformatics in Berlin 🇩🇪<br/>
-Bridging biomedical research and fintech, evolving my skills across both worlds.
+Bridging biomedical research and fintech, evolving my skills across both worlds.<br/><br/>
+Currently learning Java, HTML and CSS.
 </h4>
 
 <br clear="right"/>
 
----
 
-### 🛠 Skills & Tools
+# 🛠 Skills & Tools
 
 **Languages**
 
@@ -35,13 +35,18 @@ Bridging biomedical research and fintech, evolving my skills across both worlds.
 [![Infra](https://skillicons.dev/icons?i=docker,gcp,linux,git,github,gitlab,postgres,mysql)](https://skillicons.dev)
 
 
+**Currently learning**
+
+[![Web](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
+
+
 # 📫 Contact 
 
-<div align ="left">
-<a href="mailto:astghik.sarukhan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://linkedin.com/in/sarukhaa99">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</div>
+<p align="center">
+  <a href="mailto:astghik.sarukhan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/sarukhaa99">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
